@@ -1,0 +1,54 @@
+# Blender MTL File: 'MRL-279.blend'
+# Material Count: 4
+
+newmtl 24_0000-Object001_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.782293 0.480736 0.632886
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\White Day Ghost,Hanged Girl\ghost_hangedgirl.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\normal.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\ghost_hangedgirl_spec.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\ghost_hangedgirl.png
+
+newmtl 24_0001-Object001_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.728006 0.630530 0.701517
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\White Day Ghost,Hanged Girl\ghost_hangedgirl_hair.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\normal.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\ghost_hangedgirl_hair_spec.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\ghost_hangedgirl_hair.png
+
+newmtl 7_0002-Object001_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.603127 0.635535 0.625847
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\White Day Ghost,Hanged Girl\ghost_hangedgirl_eyeao.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\ghost_hangedgirl_eyeao.png
+
+newmtl 7_0003-Object001_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.699473 0.786328 0.601997
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\White Day Ghost,Hanged Girl\ghost_hangedgirl.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\White Day Ghost,Hanged Girl\\ghost_hangedgirl.png
